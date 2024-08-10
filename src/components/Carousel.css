@@ -1,0 +1,27 @@
+/* src/components/Carousel.css */
+.carousel-wrapper {
+  width: 100%; /* Full width */
+  height: 24rem; /* Same height as the HeroSection */
+}
+
+.carousel-container {
+  height: 100%; /* Ensure the container takes full height */
+}
+
+.carousel-image {
+  width: 100%;
+  height: 24rem; /* Same height as the HeroSection */
+  object-fit: cover;
+  border-radius: 10px; /* Optional: Add rounded corners */
+  transition: transform 0.3s ease-in-out;
+}
+
+.carousel-image:hover {
+  transform: scale(1.05); /* Optional: Add a zoom effect on hover */
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5); /* Optional: Add a semi-transparent background */
+  padding: 10px;
+  border-radius: 10px; /* Optional: Add rounded corners */
+}

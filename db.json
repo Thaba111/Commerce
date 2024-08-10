@@ -1,0 +1,110 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Elegant Sandal",
+        "price": 1500,
+        "currency": "KES",
+        "image": "/images/shoes.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Casual Flip Flop",
+        "price": 2500,
+        "currency": "KES",
+        "image": "/images/brown.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sporty Sandal",
+        "price": 3500,
+        "currency": "KES",
+        "image": "/images/WhatsApp Image 2024-07-13 at 11.20.17_1e4524cf.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Beach Sandal",
+        "price": 2000,
+        "currency": "KES",
+        "image": "/images/WhatsApp Image 2024-07-13 at 11.20.30_0bb9148b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Luxury Sandal",
+        "price": 7000,
+        "currency": "KES",
+        "image": "/images/WhatsApp Image 2024-07-13 at 11.23.30_b0a96c2b.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Comfort Sandal",
+        "price": 3000,
+        "currency": "KES",
+        "image": "/images/WhatsApp Image 2024-07-13 at 11.23.31_583b0313.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Traveler Sandal",
+        "price": 5500,
+        "currency": "KES",
+        "image": "/images/WhatsApp Image 2024-07-13 at 11.23.30_b0a96c2b.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Eco-friendly Sandal",
+        "price": 4000,
+        "currency": "KES",
+        "image": "/images/WhatsApp Image 2024-07-13 at 11.23.31_aca28b5e.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Elegant Flip Flop",
+        "price": 2700,
+        "currency": "KES",
+        "image": "/images/WhatsApp Image 2024-07-13 at 11.23.32_765f8359.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Fashion Sandal",
+        "price": 4800,
+        "currency": "KES",
+        "image": "/images/WhatsApp Image 2024-07-13 at 11.23.34_508d2e88.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Classic Sandal",
+        "price": 3200,
+        "currency": "KES",
+        "image": "/images/WhatsApp Image 2024-07-13 at 11.20.17_1e4524cf.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Modern Sandal",
+        "price": 5100,
+        "currency": "KES",
+        "image": "/images/WhatsApp Image 2024-07-13 at 11.23.33_c66c0606.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Outdoor Sandal",
+        "price": 3800,
+        "currency": "KES",
+        "image": "/images/images.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Urban Sandal",
+        "price": 4500,
+        "currency": "KES",
+        "image": "/images/download.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Lightweight Sandal",
+        "price": 2900,
+        "currency": "KES",
+        "image": "/images/brown.jpg"
+      }
+    ]
+  }
+  

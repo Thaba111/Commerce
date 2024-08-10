@@ -1,0 +1,16 @@
+/* Slick Carousel Styles */
+/* index.css or App.css */
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+/* Tailwind CSS Directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom CSS for title */
+.site-title {
+  font-size: 3rem; /* Adjust the font size as needed */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Example of font family */
+  text-decoration: none; /* Remove underline */
+}
