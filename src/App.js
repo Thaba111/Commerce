@@ -100,8 +100,8 @@ import Cart from './components/Cart';
 import Checkout from './pages/Checkout';
 import ThankYou from './pages/ThankYou'; // Import the ThankYou component
 import TrackOrder from './pages/TrackOrder'; 
-import SignInPage from './pages/SignIn';
-import SignUpPage from './pages/SignUp';
+// import SignInPage from './pages/SignIn';
+// import SignUpPage from './pages/SignUp';
 import Confirmation from './pages/Confirmation'; // Import the Confirmation page
 import { CartProvider } from './contexts/CartContext';
 
@@ -118,13 +118,13 @@ function App() {
             <Route path="/checkout" element={<Checkout />} />
             <Route path="/thank-you" element={<ThankYou />} />
             <Route path="/track-order" element={<TrackOrder />} />
-            <Route path="/signin" element={<SignInPage />} />
-            <Route path="/signup" element={<SignUpPage />} />
+            {/* <Route path="/signin" element={<SignInPage />} />
+            <Route path="/signup" element={<SignUpPage />} /> */}
             <Route path="/confirmation" element={<Confirmation />} /> {/* Add route for Confirmation page */}
-            <Route
+            {/* <Route
               path="*"
               element={<SignInPage />} // Redirect to SignInPage or another fallback component
-            />
+            /> */}
           </Routes>
           </main>
           <Footer />
